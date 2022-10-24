@@ -36,6 +36,7 @@ The mathematical basis are described in Appendix A of Wirth et al. (2022).
 ### Dependencies
 
 Python 3.8.10
+
 Matplotlib 3.5.1
 
 ### Usage
@@ -52,4 +53,4 @@ python3 RunAllEx.py
 
 ## References
 
-TODO
+Wirth H., Kroupa P., Haas J., Jerabkova T., Yan Z., Šubr L.: The giants that were born swiftly - implications of the top-heavy stellar initial mass function on the birth conditions of globular clusters. Monthly Notices of the Royal Astronomical Society, 516(3): 3342-3353, 11 2022
